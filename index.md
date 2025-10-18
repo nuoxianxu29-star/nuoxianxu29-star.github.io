@@ -1,7 +1,7 @@
 ---
 title: "XNX_BLOG!"
 description: "WECLOME TO MY TECHNOLOGY BLOG!"
-layout:home
+layout: home
 ---
 # 我是黛赭 我会在这里分享我的学习笔记、项目经验
 
